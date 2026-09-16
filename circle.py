@@ -1,7 +1,7 @@
 import math
 
 
-def area(r):
+def circle_area(r):
     '''
     Возвращает площадь круга по длине его радиуса.
 
@@ -17,7 +17,7 @@ def area(r):
     return math.pi * r * r
 
 
-def perimeter(r):
+def circle_perimeter(r):
     '''
     Возвращает длину окуржности по длине ее радиуса.
 

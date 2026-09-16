@@ -1,4 +1,4 @@
-def area(a, b):
+def rectangle_area(a, b):
     '''
     Возвращает площадь прямоугольника по длинам его смежных сторон.
 
@@ -14,7 +14,7 @@ def area(a, b):
     '''
     return a * b
 
-def perimeter(a, b):
+def rectangle_perimeter(a, b):
     '''
     Возвращает периметр прямоугольника по длинам его смежных сторон.
 

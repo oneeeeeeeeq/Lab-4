@@ -1,5 +1,5 @@
 
-def area(a):
+def square_area(a):
     '''
     Возвращает площадь квадрата по длине его стороны.
 
@@ -15,7 +15,7 @@ def area(a):
     return a * a
 
 
-def perimeter(a):
+def square_perimeter(a):
     '''
     Возвращает периметр квадрата по длине его стороны.
 
